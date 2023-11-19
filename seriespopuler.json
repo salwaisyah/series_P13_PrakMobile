@@ -1,0 +1,67 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "judul": "Brooklyn Nine-Nine",
+    "tgl_rilis": "2013-09-13",
+    "genre": "Situation Comedy",
+    "jml_season": "8",
+    "jml_eps": "153",
+    "poster": "https://www.themoviedb.org/t/p/w1280/hgRMSOt7a1b8qyQR68vUixJPang.jpg"
+  },
+  {
+    "no": "2",
+    "judul": "The Big Bang Theory",
+    "tgl_rilis": "2007-09-24",
+    "genre": "Situation Comedy",
+    "jml_season": "12",
+    "jml_eps": "279",
+    "poster": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-6482810627.jpg"
+  },
+  {
+    "no": "3",
+    "judul": "Peaky Blinders",
+    "tgl_rilis": "2013-09-12",
+    "genre": "Drama",
+    "jml_season": "6",
+    "jml_eps": "36",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_.jpg"
+  },
+  {
+    "no": "4",
+    "judul": "Young Sheldon",
+    "tgl_rilis": "2017-09-25",
+    "genre": "Situation Comedy",
+    "jml_season": "6",
+    "jml_eps": "127",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "no": "5",
+    "judul": "Aaron Ramsdale",
+    "tgl_rilis": "1998-05-14",
+    "genre": "Goalkeeper",
+    "jml_season": "England",
+    "jml_eps": "Arsenal",
+    "poster": "https://i.postimg.cc/90j1WHJh/Ramsdale.png"
+  },
+  {
+    "no": "6",
+    "judul": "Business Proposal",
+    "tgl_rilis": "2022-02-28",
+    "genre": "Drama",
+    "jml_season": "1",
+    "jml_eps": "12",
+    "poster": "https://www.dreamers.id/img_editor/63591/images/abusinessproposal%207.jpg"
+  },
+  {
+    "no": "7",
+    "judul": "Alice in Borderland",
+    "tgl_rilis": "2020-12-10",
+    "genre": "Mystery",
+    "jml_season": "2",
+    "jml_eps": "16",
+    "poster": "https://resizing.flixster.com/lKCL0DL4PSd7X3KWyzAIDmk2Npw=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjc4MDcxMS53ZWJw"
+  }
+ ]
+}
